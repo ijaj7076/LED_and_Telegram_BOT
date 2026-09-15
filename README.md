@@ -21,4 +21,4 @@ An IoT remote-control system powered by the ESP32 and Telegram Bot API. This pro
 ## Setup Instructions
 1. Clone this repository:
    ```bash
-   git clone [https://github.com/your-username/esp32-telegram-bot.git](https://github.com/your-username/esp32-telegram-bot.git)
+   git clone [https://github.com/ijaj7076/LED_and_Telegram_BOT](https://github.com/ijaj7076/LED_and_Telegram_BOT)
