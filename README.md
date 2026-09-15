@@ -7,11 +7,16 @@ An IoT remote-control system powered by the ESP32 and Telegram Bot API. This pro
 - **NAT Traversal:** Works over cellular data or external networks via HTTPS long-polling.
 - **Session Management:** Tracks authenticated users dynamically with active session and logout functionality.
 - **Hardware Control:** Remotely toggles GPIO outputs and queries live pin states.
+- **LED ON** ![ON](img/on2.jpg) 
+- **LED OFF** ![OFF](img/off.jpg)
+- **VIDEO** ![VIDEO](video/led_off_on.mp4)
 
+  
 ## Circuit Schematic
 - **Board:** ESP32 Development Board
 - **Output:** LED connected to GPIO 2 (built-in LED) via a 220Ω resistor to GND.
-
+- **Circuit Diagram** ![OFF](img/circuit_diagram.png)
+  
 ## Hardware & Software Requirements
 - ESP32 Development Board
 - Arduino IDE with ESP32 Board Support installed
