@@ -9,7 +9,12 @@ An IoT remote-control system powered by the ESP32 and Telegram Bot API. This pro
 - **Hardware Control:** Remotely toggles GPIO outputs and queries live pin states.
 - **LED ON** ![ON](img/on2.jpg) 
 - **LED OFF** ![OFF](img/off.jpg)
-- **VIDEO** ![VIDEO]<video src="https://githubusercontent.com" width="600" controls></video>
+- **VIDEO** ![VIDEO] <video src="https://github.com/user-attachments/assets/91316424-a047-46a2-8418-cf921bb81895" width="600" controls></video>
+
+
+
+
+
 
   
 ## Circuit Schematic
